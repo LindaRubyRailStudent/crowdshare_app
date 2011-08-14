@@ -28,7 +28,6 @@ gem 'jquery-rails'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 group :development do
-  gem   'autotest'
   gem   'rspec-rails', '2.0.0.beta.18'
 end
 
