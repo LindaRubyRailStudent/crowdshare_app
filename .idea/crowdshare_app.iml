@@ -66,16 +66,9 @@
     </requirement>
     <requirement>
       <requirement>
-        <dependency name="webrat" version="0.7.1" bound="EQUAL" git="false" path="false" doRequire="true" />
-      </requirement>
-      <source from="Gemfile" />
-    </requirement>
-    <requirement>
-      <requirement>
         <dependency name="win32console" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
       </requirement>
       <source manual="true" />
-      <source from="Gemfile" />
     </requirement>
   </component>
   <component name="NewModuleRootManager">
