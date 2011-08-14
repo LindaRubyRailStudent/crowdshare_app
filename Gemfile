@@ -29,6 +29,7 @@ gem 'jquery-rails'
 
 group :development do
   gem   'rspec-rails', '2.0.0.beta.18'
+  gem   'autotest'
 end
 
 group :test do
