@@ -58,7 +58,7 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="0" selection-start="3135" selection-end="3135" vertical-scroll-proportion="0.0">
+            <state line="126" column="0" selection-start="3201" selection-end="3201" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -389,7 +389,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="558" y="23" width="725" height="678" extended-state="0" />
+    <frame x="558" y="23" width="725" height="678" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3412162" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -526,7 +526,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="0" selection-start="3135" selection-end="3135" vertical-scroll-proportion="0.0">
+        <state line="126" column="0" selection-start="3201" selection-end="3201" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
