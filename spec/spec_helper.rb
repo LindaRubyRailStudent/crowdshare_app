@@ -1,3 +1,5 @@
+require 'rubygems'
+
 # This file is copied to ~/spec when you run 'ruby script/generate rspec'
 # from the project root directory.
 ENV["RAILS_ENV"] ||= 'test'
@@ -17,6 +19,8 @@ RSpec.configure do |config|
   # config.mock_with :flexmock
   # config.mock_with :rr
   config.mock_with :rspec
+  config.include RSpec::Rails::ControllerExampleGroup
+  # http://www.ruby-forum.com/topic/212167 - fixed the get test issue
 
   config.fixture_path = "#{::Rails.root}/spec/fixtures"
 

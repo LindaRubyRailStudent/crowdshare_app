@@ -28,10 +28,13 @@ gem 'jquery-rails'
 # gem 'ruby-debug19', :require => 'ruby-debug'
 
 group :development do
+  gem   'autotest'
   gem   'rspec-rails', '2.0.0.beta.18'
 end
 
 group :test do
   gem 'rspec', '2.0.0.beta.18'
+  gem 'webrat', '0.7.1'
 end
+
 
